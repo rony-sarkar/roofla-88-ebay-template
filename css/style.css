@@ -622,7 +622,7 @@ section.tab-section {
 
 .footer-widget h2 {
     padding: 0 0 20px;
-    margin: 0 0 25px;
+    margin: 0 0 10px;
     text-transform: uppercase;
     font-size: 20px;
     position: relative;
@@ -651,11 +651,6 @@ section.tab-section {
 
 .why img {
     width: 80px;
-}
-
-.footer-widget p {
-    margin: 0 0 20px;
-    line-height: 18px;
 }
 
 .footer-widget ul {
@@ -705,7 +700,6 @@ section.tab-section {
     margin-bottom: 0 !important;
     display: inline-block;
     font-weight: 700;
-    margin-top: 30px;
 }
 
 .sub-btn:focus,
